@@ -23,7 +23,7 @@
 					</div>
 					<div class="col-lg-5">
 						<div class="home_right_img">
-							<img class="" src="img/banner/home-right.png" alt="">
+							<img class="" src="assetcc/img/banner/home-right.png" alt="">
 						</div>
 					</div>
 				</div>
