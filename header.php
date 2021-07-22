@@ -11,7 +11,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="icon" href="assetcc/img/favicon.png" type="image/png">
-	<title>Satner <?php echo $app; ?></title>
+	<title>Satner </title>
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="assetcc/css/bootstrap.css">
 	<link rel="stylesheet" href="assetcc/vendors/linericon/style.css">
