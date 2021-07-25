@@ -25,6 +25,13 @@ Author E-mail: naimlasker@gmail.com
 /* Wide Mobile Layout: 480px */
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
+.void {
+  position: relative;
+  top: 8em;
+  z-index: 99999;
+  text-align: center;
+  background-color: #fffaa3;
+}
 body {
   line-height: 26px;
   font-size: 15px;

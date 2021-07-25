@@ -6,6 +6,7 @@
 	
 
 	<!--================ Start Home Banner Area =================-->
+	
 	<section class="home_banner_area">
 		<div class="banner_inner">
 			<div class="container">
@@ -496,7 +497,7 @@
 							Bearing Void gathering light light his eavening unto dont afraid. 
 						</p>
 						<div class="subcribe-form" id="mc_embed_signup">
-							<form  novalidate="true"  method="post" class="subscription relative">
+							<form  name='email_form' novalidate="true"  method="post" class="subscription relative">
 								<input name="EMAIL" placeholder="Email address"   type="email">
 								
 								

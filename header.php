@@ -68,4 +68,13 @@
 			</nav>
 		</div>
 	</header>
+	<?php if ($_GET['success']==true):?>
+		
+	
+	<div class="void">
+		<p>	
+			ваши данные успешно сохранены
+		</p>
+	</div>
+	<?php  endif; ?>
     
